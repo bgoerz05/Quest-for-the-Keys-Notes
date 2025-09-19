@@ -1,0 +1,1 @@
+First quest giver. A soft-spoken woman who works as an archeologer.
