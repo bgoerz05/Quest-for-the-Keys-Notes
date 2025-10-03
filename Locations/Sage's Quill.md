@@ -1,0 +1,1 @@
+A quiet, upscale tavern. Out meeting place with [[Dr. Catty Daniel]]

@@ -1,0 +1,1 @@
+The butler of [[Fun-Gus]]. Addicted to drugs and drink. 

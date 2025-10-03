@@ -1,6 +1,6 @@
 Character introductions - 
 - Ratman entered from the sewers, unintentionally switching places with Jimmy Two-Shoes.
-- Fun-Gus is a nepo baby Paladin that got arrested on drug charges.
+- [[Fun-Gus]] is a nepo baby Paladin that got arrested on drug charges.
 - Serin has been in isolation for the past three years for his "crimes."
 - Jesus is preaching to her cellmate.
 
