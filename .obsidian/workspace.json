@@ -62,8 +62,7 @@
               "title": "Session 4"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +210,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f9d71aae617ca02e",
+  "active": "0740160ec3a4a912",
   "lastOpenFiles": [
+    "Session Notes/Session 3.md",
     "Indexes/NPC Reference.base",
     "NPCs/Captain John Windall.md",
     "Session Notes/Session 4.md",
@@ -220,7 +220,6 @@
     "NPCs/Veronica.md",
     "NPCs/Johnny Two-Shoes.md",
     "Locations/Museum.md",
-    "Session Notes/Session 3.md",
     "Locations/Maps/Museum Floor Plan.webp",
     "Locations/Maps",
     "NPCs/Damian.md",
